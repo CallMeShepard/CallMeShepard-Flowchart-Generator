@@ -1,0 +1,14 @@
+int low = 0;
+int high = numbers.Length - 1;
+WHILE low <= high DO
+	int mid = low + (high - low) / 2;
+	IF key < numbers[mid] THEN
+		high = mid - 1;
+	ELSE
+		IF key > numbers[mid] THEN
+			low = mid + 1;
+		ELSE
+			return mid;
+		ENDIF
+	ENDIF
+ENDWHILE
