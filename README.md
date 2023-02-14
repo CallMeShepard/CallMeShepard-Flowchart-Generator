@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=1gCqPBzU8Z0
 
 ## Установка Repl.it
 
-Если вы не хотите скачивать его или настраивать python, вы можете запустить этот проект прямо из браузера с помощью [repl.it](https://repl.it/github/MugilanGN/Flowchart-Generator).
+Если вы не хотите скачивать его или настраивать python, вы можете запустить этот проект прямо из браузера с помощью [repl.it](https://repl.it/github/CallMeShepard/CallMeShepard-Flowchart-Generator).
 
 Эта ссылка автоматически клонирует проект и настроит его для вас. Если вы хотите сделать это вручную, вы можете самостоятельно импортировать **replit.com/github/CallMeShepard/CallMeShepard-Flowchart-Generator** в repl.it.
 
