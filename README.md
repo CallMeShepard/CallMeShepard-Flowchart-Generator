@@ -127,7 +127,7 @@ python main.py
   Пример:
   
   ```sh
-  python Converter.py --code="code.txt" --size=30 --output="result.png"
+  python main.py --code="code.txt" --size=30 --output="result.png"
   ```
 
 ### Изображение блок-схемы
