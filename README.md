@@ -1,6 +1,6 @@
 # Flowchart-Generator
 Автоматически создает блок-схемы из псевдокода!
-<img src="flowchart.png" width="629" height="500">
+<img src="example.png" width="629" height="500">
 
 ## Видео демонстрация
 
