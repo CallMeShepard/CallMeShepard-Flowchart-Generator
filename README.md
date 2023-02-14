@@ -1,6 +1,6 @@
 # Flowchart-Generator
 Автоматически создает блок-схемы из псевдокода!
-<img src="example.png" width="629" height="500">
+<img src="example.png">
 
 ## Видео демонстрация
 
@@ -33,7 +33,7 @@ pip install Pillow click
 
 Псевдокод вводится в файл .txt. Он следует строгим правилам, которые должны соблюдаться
 
-<img src="enter.png" alt="alt text">
+<img src="example_enter.png">
 
 ### Правила
 
